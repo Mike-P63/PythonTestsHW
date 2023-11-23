@@ -1,0 +1,10 @@
+url: https://test-stand.gb.ru/gateway/login
+url2: https://test-stand.gb.ru/api/posts
+url3_post: https://test-stand.gb.ru/gateway/posts
+
+login: AlenaK
+pswd: d02d48181c
+
+title: Tester_is_very_important
+description: New_blog_for_HW_1
+content: Super_tester_work_fast
